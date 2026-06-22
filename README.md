@@ -71,6 +71,8 @@ Meu objetivo é atuar em:
 
 ### 🖥️ Home Network Lab
 
+🔹 Service Desk Simulator - https://github.com/peguis/home-network-lab.git
+
 Mapeamento e documentação de uma rede doméstica.
 
 Práticas:
@@ -86,6 +88,8 @@ Práticas:
 
 ### 🔐 Windows Security Audit
 
+🔹 Windows Security Audit - https://github.com/peguis/windows-security-audit.git
+
 Auditoria básica de segurança em ambiente Windows.
 
 Práticas:
@@ -100,6 +104,8 @@ Práticas:
 ---
 
 ### 🎫 Service Desk Simulator
+
+🔹 Service Desk Simulator - https://github.com/peguis/service-desk-simulator.git
 
 Simulação de uma central de suporte baseada em ITSM.
 
