@@ -5,6 +5,8 @@
 
 Profissional em transição para a área de Tecnologia da Informação.
 
+Focado em infraestrutura e suporte, com evolução planejada para backend e DevOps.
+
 Atualmente trabalho na Teleperformance e concluí a trilha Escola de TI, desenvolvendo conhecimentos em:
 
 - Sistemas Operacionais
